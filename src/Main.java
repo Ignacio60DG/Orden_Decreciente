@@ -19,3 +19,7 @@ public class Main {
         }
     }
 }
+
+/*
+respuesta=(numbre1<number2)? number1 + ", " + number2 : ...
+ */
