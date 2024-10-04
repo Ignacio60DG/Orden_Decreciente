@@ -10,6 +10,8 @@ public class Main {
         int number1 = sc.nextInt();
         int number2 = sc.nextInt();
 
+        sc.close();
+
         if(number1 < number2){
             System.out.println(number1 + ", " + number2);
         }else{
